@@ -10,5 +10,5 @@ window.onload = function () {
     change_image.src = change_image.src.replace(/\?.*/, function () {
       return "?" + new Date()
     })
-  }, 5000)
+  }, 9000)
 }
