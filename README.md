@@ -1,9 +1,14 @@
-# Simple-login-page
+# Simple-login-page-2
+
 Responsive login page design.
 
 Responsive design using CSS Flexbox Layout. 
-Random images change by Unsplash API.
+Random images change automatically 
 
-You can see the project at the following URL:
+Previous project URL:
 
 https://avishka964.github.io/simple-login-page/
+
+Recraeted project URL:
+
+
