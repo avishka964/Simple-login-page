@@ -11,4 +11,5 @@ https://avishka964.github.io/simple-login-page/
 
 Recraeted project URL:
 
+https://avishka964.github.io/simple-login-page-2/
 
