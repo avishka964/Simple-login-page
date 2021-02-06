@@ -1,4 +1,4 @@
-# Simple-login-page-V2
+# Simple-login-page
 
 Responsive login page design.
 
